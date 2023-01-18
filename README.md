@@ -1,4 +1,3 @@
-# mongoDB_documentation
 # MongoDB Tutorial
 
 ## 0. SQL VS NoSQL
